@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brt9029
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning: Node.js
+- 🌱 I’m currently learning: React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: brt9029@gmail.com
 
