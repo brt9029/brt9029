@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @brt9029
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning: React
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bryant
+- 👀 I’m interested in becoming a Full Stack developer
+- 🌱 I’m currently learning: python
 - 📫 How to reach me: brt9029@gmail.com
 
 <!---
