@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryant
-- 👀 I’m interested in becoming a Full Stack developer
+- 👀 I’m interested in becoming Developer
 - 🌱 I’m currently learning: python
 - 📫 How to reach me: brt9029@gmail.com
 
