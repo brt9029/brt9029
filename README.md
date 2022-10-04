@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryant
-- 👀 I’m interested in becoming Developer
+- 👀 I’m looking to get my first job as a Developer
 - 🌱 I’m currently: Brushing up on ~~nodejs~~, ~~MySQL~~, ~~sequelize~~, graphql, mongoDB, and **React JS**
 - 📫 How to reach me: brt9029@gmail.com
 
