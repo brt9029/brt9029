@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryant
 - 👀 I’m looking to get my first job as a Developer
-- 🌱 I’m currently: Learning more about Web Development tools and re-learning C#
+- 🌱 I’m currently: Learning more about Web Development tools as well as re-learning C# / Python
 - 📫 How to reach me: brt9029@gmail.com
 
 <!---
