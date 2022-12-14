@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bryant
-- 👀 I’m looking to get my first job as a Developer
-- 🌱 I’m currently: Learning more about Web Development tools as well as re-learning C# / Python
+- 👀 I’m a Full Stack Developer
+- 👀 Always looking to learn more about development in general.
+- 🌱 Current experience: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, MongoDB, C#, and Python
 - 📫 How to reach me: brt9029@gmail.com
 
 <!---
