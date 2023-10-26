@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryant
 - 👀 I’m a Full Stack Developer
-- 👀 Always looking to learn more about development in general.
+- 👀 Always looking to learn more.
 - 🌱 Currently experienced in the following languages: HTML, CSS, JavaScript, MERN Stack, and C#
 - 📫 How to reach me: brt9029@gmail.com
 
